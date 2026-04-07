@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/" type="dynamic" pubdate="Mon, 06 Apr 2026 11:25:20 GMT" generator="mirrormanager" xmlns:mm0="http://fedorahosted.org/mirrormanager">
+ <files>
+  <file name="repomd.xml">
+   <mm0:timestamp>1761190640</mm0:timestamp>
+   <size>5966</size>
+   <verification>
+    <hash type="md5">408f4786413b810342b9198691464ed4</hash>
+    <hash type="sha1">868f1d8f3febe647b77bc0a8ef5023446b10ea89</hash>
+    <hash type="sha256">eb1d8634a798b5cfcef64b0114711f431f2cd186b55cce902f1883a32c6ff4f2</hash>
+    <hash type="sha512">fe29584e7cb4eef4cb4a0ba4806ee6f0170f10a3367d56566a1725525d962cf1e8fb340c4648373c07892da7ba9545c1bfb76cc837fd26e436fee69c1aac9dc5</hash>
+   </verification>
+   <resources maxconnections="1">
+    <url protocol="http" type="http" location="RU" preference="100">http://mirror.yandex.ru/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="RU" preference="100">rsync://mirror.yandex.ru/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="RU" preference="100">https://mirror.yandex.ru/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="NL" preference="99">http://fedora.mirror.liteserver.nl/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="NL" preference="99">rsync://mirror.liteserver.nl/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="NL" preference="99">https://fedora.mirror.liteserver.nl/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="RO" preference="98">https://mirrors.nxthost.com/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="RO" preference="98">http://mirrors.nxthost.com/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="RO" preference="98">rsync://mirrors.nxthost.com/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="CH" preference="97">https://mirror.init7.net/fedora/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="CH" preference="97">http://mirror.init7.net/fedora/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="96">http://mirror.dogado.de/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DE" preference="96">https://mirror.dogado.de/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="96">rsync://mirror.dogado.de/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="GB" preference="95">https://fedora.mirrorservice.org/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="GB" preference="95">http://fedora.mirrorservice.org/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="GB" preference="95">rsync://rsync.mirrorservice.org/dl.fedoraproject.org/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="IS" preference="94">https://www.fedora.is/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="IS" preference="94">http://www.fedora.is/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="IS" preference="94">rsync://www.fedora.is/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="UA" preference="93">https://fedora.ip-connect.vn.ua/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="UA" preference="93">rsync://fedora.ip-connect.vn.ua/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="UA" preference="93">http://fedora.ip-connect.vn.ua/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DE" preference="92">https://ftp-stud.hs-esslingen.de/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="92">rsync://ftp-stud.hs-esslingen.de/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="92">http://ftp-stud.hs-esslingen.de/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="91">http://ftp.uni-bayreuth.de/linux/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="91">rsync://rsync.uni-bayreuth.de/fedora-enchilada/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="UA" preference="90">http://fedora.ip-connect.info/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="UA" preference="90">https://fedora.ip-connect.info/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="UA" preference="90">rsync://fedora.ip-connect.info/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="NL" preference="89">https://eu.edge.kernel.org/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="CZ" preference="88">rsync://mirror.karneval.cz/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="CZ" preference="88">https://mirror.karneval.cz/pub/linux/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="BG" preference="87">http://mirror.telepoint.bg/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="BG" preference="87">rsync://mirror.telepoint.bg/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="BG" preference="87">https://mirror.telepoint.bg/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="FR" preference="86">https://fr2.rpmfind.net/linux/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="FR" preference="86">http://fr2.rpmfind.net/linux/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="FR" preference="86">rsync://fr2.rpmfind.net/linux/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="85">http://mirror.netzwerge.de/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DE" preference="85">https://mirror.netzwerge.de/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="85">rsync://mirror.netzwerge.de/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DK" preference="84">rsync://mirrors.dotsrc.org/fedora-enchilada/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DK" preference="84">http://mirrors.dotsrc.org/fedora-enchilada/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DK" preference="84">https://mirrors.dotsrc.org/fedora-enchilada/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="BG" preference="83">http://fedora.ipacct.com/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="BG" preference="83">https://fedora.ipacct.com/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="BG" preference="83">rsync://fedora.ipacct.com/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="82">http://mirror.23m.com/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DE" preference="82">https://mirror.23m.com/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="82">rsync://mirror.23m.com/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="GB" preference="81">https://ask4.mm.fcix.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="GB" preference="81">http://ask4.mm.fcix.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="GB" preference="81">rsync://ask4.mm.fcix.net/fedora-enchilada/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="FI" preference="80">rsync://rsync.nic.funet.fi/ftp/pub/mirrors/fedora.redhat.com/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="FI" preference="80">http://www.nic.funet.fi/pub/mirrors/fedora.redhat.com/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DE" preference="79">https://mirror.imt-systems.com/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="79">rsync://mirror.imt-systems.com/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="79">http://mirror.imt-systems.com/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="78">rsync://mirror.de.leaseweb.net/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="78">http://mirror.de.leaseweb.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="FR" preference="77">http://mirror.in2p3.fr/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="FR" preference="77">rsync://mirror.in2p3.fr/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="FR" preference="77">https://mirror.in2p3.fr/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DK" preference="76">rsync://mirror.netsite.dk/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DK" preference="76">https://mirror.netsite.dk/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DK" preference="76">http://mirror.netsite.dk/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="75">rsync://ftp.uni-stuttgart.de/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DE" preference="75">https://ftp.uni-stuttgart.de/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="75">http://ftp.uni-stuttgart.de/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="SE" preference="74">http://mirror.accum.se/mirror/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="SE" preference="74">rsync://mirror.accum.se/mirror/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="SE" preference="74">https://mirror.accum.se/mirror/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DE" preference="73">https://mirror.plusline.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="73">rsync://mirror.plusline.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="73">http://mirror.plusline.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="FR" preference="72">rsync://distrib-coffee.ipsl.jussieu.fr/pub/linux/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="FR" preference="72">http://distrib-coffee.ipsl.jussieu.fr/pub/linux/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="RO" preference="71">http://mirrors.chroot.ro/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="70">http://ftp.fau.de/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DE" preference="70">https://ftp.fau.de/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="70">rsync://ftp.fau.de/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DE" preference="69">https://mirrors.xtom.de/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="69">http://mirrors.xtom.de/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="69">rsync://mirrors.xtom.de/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="BE" preference="68">https://fedora.mirror-services.net/pub/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="BE" preference="68">rsync://mirror-services.net/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="CZ" preference="67">http://ftp.sh.cvut.cz/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="CZ" preference="67">https://ftp.sh.cvut.cz/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="CZ" preference="67">rsync://ftp.sh.cvut.cz/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="CZ" preference="66">http://mirror.slu.cz/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="CZ" preference="66">rsync://mirror.slu.cz/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="CZ" preference="66">https://mirror.slu.cz/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="EE" preference="65">https://mirrors.xtom.ee/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="EE" preference="65">rsync://mirrors.xtom.ee/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="EE" preference="65">http://mirrors.xtom.ee/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="LU" preference="64">http://fedora.mirror.root.lu/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="ES" preference="63">http://ftp.cica.es/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="ES" preference="63">rsync://rsync.cica.es/fedora-linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="NL" preference="62">rsync://mirror.i3d.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="NL" preference="62">https://mirror.i3d.net/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="NL" preference="62">http://mirror.i3d.net/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="SA" preference="61">https://mirror.maeen.sa/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="SA" preference="61">http://mirror.maeen.sa/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="SA" preference="61">rsync://mirror.maeen.sa/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="UA" preference="60">https://repo.hyron.dev/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="59">rsync://fedora.tu-chemnitz.de/ftp/pub/linux/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="59">http://fedora.tu-chemnitz.de/pub/linux/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="SE" preference="58">http://mirror.bahnhof.net/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="SE" preference="58">https://mirror.bahnhof.net/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="NL" preference="57">rsync://mirror.nl.leaseweb.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="NL" preference="57">http://mirror.nl.leaseweb.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="GB" preference="56">https://b4sh.mm.fcix.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="GB" preference="56">http://b4sh.mm.fcix.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="GB" preference="56">rsync://b4sh.mm.fcix.net/fedora-enchilada/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="UA" preference="55">https://distrohub.kyiv.ua/fedora/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="UA" preference="55">rsync://distrohub.kyiv.ua/fedora/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="UA" preference="55">http://distrohub.kyiv.ua/fedora/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="CH" preference="54">https://ipng.mm.fcix.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="CH" preference="54">rsync://ipng.mm.fcix.net/fedora-enchilada/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="CH" preference="54">http://ipng.mm.fcix.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="FR" preference="53">http://mirrors.ircam.fr/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="FR" preference="53">rsync://mirrors.ircam.fr/fedora-linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="FR" preference="53">https://mirrors.ircam.fr/pub/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="https" type="https" location="DE" preference="52">https://mirrors.n-ix.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="rsync" type="rsync" location="DE" preference="52">rsync://mirrors.n-ix.net/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="DE" preference="52">http://mirrors.n-ix.net/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="RS" preference="51">http://mirror.etf.bg.ac.rs/fedora/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+    <url protocol="http" type="http" location="GR" preference="50">http://ftp.otenet.gr/linux/fedora/linux/releases/43/Everything/x86_64/os/repodata/repomd.xml</url>
+   </resources>
+  </file>
+ </files>
+</metalink>
