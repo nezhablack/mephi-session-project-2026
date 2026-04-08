@@ -5,8 +5,8 @@
     5  ip route
     6  hostnamectl set-hostname mephi-2026.domain.local
     7  hostnamectl
-    8  ping -c 4 8.8.8.8 > /tmp/network_check.txt
-    9  ping -c 4 192.168.88.1 >> /tmp/network_check.txt
+    8  ping -c 4 192.168.88.1 >> /tmp/network_check.txt
+    9  ping -c 4 8.8.8.8 > /tmp/network_check.txt
    10  dnf install -y nginx tcpdump libcap-ng-utils
    11  lsblk
    12  fdisk /dev/sdb
