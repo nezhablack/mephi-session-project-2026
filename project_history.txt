@@ -14,14 +14,14 @@
    14  blkid /dev/sdb1
    15  mkdir -p /data/mephi-web
    16  cp /etc/fstab /etc/fstab.bak
-   17  echo "LABEL=MEPHI_DATA  /data/mephi-web  ext4  defaults  0 2" >> /etc/fstab
+   17  echo 'LABEL=MEPHI_DATA  /data/mephi-web  ext4  defaults  0 2' >> /etc/fstab
    18  tail -3 /etc/fstab
    19  systemctl daemon-reload
    20  mount -a
    21  df -h /data/mephi-web
    22  systemctl enable --now nginx
    23  systemctl status nginx
-   24  journalctl -u nginx --since "5 minutes ago" > /tmp/nginx_recent_logs.txt
+   24  journalctl -u nginx --since '5 minutes ago' > /tmp/nginx_recent_logs.txt
    25  sed -i 's|root\s*/usr/share/nginx/html;|root /data/mephi-web;|' /etc/nginx/nginx.conf
    26  nginx -t
    27  systemctl reload nginx
